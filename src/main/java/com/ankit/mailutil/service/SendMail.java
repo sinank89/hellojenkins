@@ -15,7 +15,7 @@ public class SendMail {
 
     public static void main(String[]args) throws IOException {
 
-        final String username = "ginger1118@outlook.com";
+        final String username = "hello@outlook.com";
         final String password = "452299@pratima";
 
         Properties props = new Properties();
